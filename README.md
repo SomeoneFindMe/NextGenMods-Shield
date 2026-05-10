@@ -2,14 +2,14 @@
 ​Native APK Protection Engine
 __________________________________________________
 ​👤 About Me
-​Android Dev & Modder. Expert in APK modification, XML editing, and root-level environments (Sukishu Ultra, Net Kali). I specialize in kernel-level tweaks and bypassing system restrictions.
+​Android Dev & Modder. Expert in APK modification, XML editing, and APK environments (Sukishu Ultra, Net Kali). I specialize in kernel-level tweaks and bypassing system restrictions.
 __________________________________________________
 ​🚀 Project & Function
 ​This toolkit provides native shielding for Android apps. It injects com.NextaGenMod.Official protection, handles junkcode.dex payloads, and uses OpenJDK-25 with apksigner for secure, clean production.
 __________________________________________________
 ​📦 Setup & Install (Termux)
 ​Paste this single command to install all engines and clone the project: ⚡👇👇
-__________________________________________________
+_________________________________________________
 pkg update -y && pkg upgrade -y && pkg install openjdk-25 zip apksigner git dos2unix -y && termux-setup-storage && sleep 3 && git clone https://github.com/SomeoneFindMe/NextGenMods-Shield.git && cd NextGenMods-Shield && chmod +x NextGenMods_Shield.sh && dos2unix NextGenMods_Shield.sh
 __________________________________________________
 🛠️ Usage
