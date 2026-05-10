@@ -3,7 +3,7 @@
 __________________________________________________
 ​👤 About Me
 ​Android Dev & Modder. Expert in APK modification, XML editing, and APK environments (Sukishu Ultra, Net Kali). I specialize in kernel-level tweaks and bypassing system restrictions.
-__________________________________________________
+_________________________________________________
 ​🚀 Project & Function
 ​This toolkit provides native shielding for Android apps. It injects com.NextaGenMod.Official protection, handles junkcode.dex payloads, and uses OpenJDK-25 with apksigner for secure, clean production.
 _________________________________________________
