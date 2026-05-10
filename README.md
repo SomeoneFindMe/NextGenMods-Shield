@@ -8,7 +8,7 @@ __________________________________________________
 ​This toolkit provides native shielding for Android apps. It injects com.NextaGenMod.Official protection, handles junkcode.dex payloads, and uses OpenJDK-25 with apksigner for secure, clean production.
 _________________________________________________
 ​📦 Setup & Install (Termux)
-​Paste this single command to install all engines and clone the project: ⚡👇👇
+​Paste this single command to install all engines and clone the project:  copy full code and paste this on terminal ⚡👇👇
 _________________________________________________
 pkg update -y && pkg upgrade -y && pkg install openjdk-25 zip apksigner git dos2unix -y && termux-setup-storage && sleep 3 && git clone https://github.com/SomeoneFindMe/NextGenMods-Shield.git && cd NextGenMods-Shield && chmod +x NextGenMods_Shield.sh && dos2unix NextGenMods_Shield.sh
 _________________________________________________
