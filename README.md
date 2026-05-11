@@ -15,10 +15,12 @@ _______________________________________________
 ​I am an Android Developer and Modder specializing in deep APK modification, XML permission editing, and advanced root-level environments. My work focuses on pushing device capabilities to their absolute limits using tools like Ksu Next and all root environment , Net Kali cakes, and custom kernel-based solutions. I bridge the gap between standard app development and advanced reverse engineering.
 _______________________________________________
 ​🚀 About This Project 👇👇👇
+_______________________________________________
 ​NextGenMods-Shield is a specialized toolkit containing core shell-files, classes.dex, and system libs. Unlike basic tools, this provides a foundational architecture for advanced Android app patching and native shielding.
 ​The shell-files configure your terminal environment to bypass standard restrictions, while the dex and libs payloads are injected into target applications to modify core functions, patch features, and optimize performance at the native level.
 _______________________________________________
 ​⚡ Key Features 👇👇👇
+_______________________________________________
 ​Native Shielding:
 Injects the com.NextaGenMod.Official protection layer.
 ​Junk Code Injection:
