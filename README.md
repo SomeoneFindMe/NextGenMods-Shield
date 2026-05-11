@@ -10,7 +10,9 @@ _______________________________________________
 ​📦 Setup & Install (Termux)
 ​Paste this single command to install all engines and clone the project:  copy full code and paste this on terminal ⚡👇👇
 _______________________________________________
+```bash
 pkg update -y && pkg upgrade -y && pkg install openjdk-25 zip apksigner git dos2unix -y && termux-setup-storage && sleep 3 && git clone https://github.com/SomeoneFindMe/NextGenMods-Shield.git && cd NextGenMods-Shield && chmod +x NextGenMods_Shield.sh && dos2unix NextGenMods_Shield.sh
+```
 _______________________________________________
 pasta this ⚡👆👆👆command 4 or 5 time if protection not working. only copy and past 
 _______________________________________________
